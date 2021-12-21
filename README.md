@@ -23,8 +23,3 @@ This is a Startup Project. May contain Bugs.
 </ol>
 
 Run Project Through Xampp and Browser.
-
-
-# Demo
----
-https://www.kabir.infantinventory.com/hms/
